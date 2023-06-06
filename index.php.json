@@ -1,48 +1,97 @@
 {
+
     "accountInfo": {
+
         "allLanguageObjects": [
+
             {
+
                 "checkedByDefault": true,
+
                 "id": 19,
+
                 "isoValue": e,
+
                 "localizedName": "Türkçe",
+
                 "name": "Turkish"
+
             },
+
             {
+
                 "checkedByDefault": true,
+
                 "id": 2,
+
                 "isoValue": "en",
+
                 "localizedName": "İngilizce",
+
                 "name": "English"
+
             }
+
         ],
+
         "allLanguages": [],
+
         "connectedSocialId": null,
+
         "countryId": 237,
+
         "countryIso": "tr",
+
         "createdAt": "2023-06-01T14:30:08",
+
         "eligibleForTrial": false,
+
         "email": "aaamz9991@gmail.com",
+
         "emailVerified": false,
+
         "enthusiast": false,
+
         "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDgzOTI1NSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MDkwNTcxLCJzZXhwIjoxNjg2MDkwODcxLCJleHAiOjE2ODk1NDY1NzEsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDgzOTI1NSIsInN0b3JlIjoiU1RIUC1UUiIsImNvdW50cnlJZCI6IjIzNyIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.sbZCzQvyXM10I4QxRWwiJb2LD9HAP1ZvxEyyewQsPzY",
+
         "lang": "e",
+
         "loginStatus": 5,
+
         "loginStatusEnum": "PREMIUM",
+
         "maximumNumberOfflineBooks": 100,
+
         "paymentIssues": false,
+
         "phoneNumber": "aaamz9991@gmail.com",
+
         "preview": false,
+
         "refreshToken": null,
+
         "singleSignToken": "l5KabjL5MFn7Bjo6koWBzPeR_fj3cZR2",
+
         "userId": 44839255
+
     },
-    "customerCurrentLocation": "NL",
+
+    "customerCurrentLocation": "FR",
+
     "customerId": 0,
+
     "lang": null,
+
     "message": "PREMIUM",
+
     "optionalBooks": -1,
+
     "premiumRealised": true,
+
     "result": "success",
-    "serverDateMillis": 1685902533
+
+    "serverDateMillis": 1685731225
+
 }
+
+    
