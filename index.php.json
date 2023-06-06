@@ -10,11 +10,11 @@
 
                 "id": ,
 
-                "isoValue": "tr",
+                "isoValue": "ar",
 
-                "localizedName": "Türkçe",
+                "localizedName": "اللغة العربية",
 
-                "name": "Türkçe"
+                "name": "عربية"
 
             },
 
@@ -64,13 +64,13 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "aaamz9991@gmail.com",
+        "phoneNumber": "aaamz9992@gmail.com",
 
         "preview": false,
 
         "refreshToken": null,
 
-        "singleSignToken": "l5KabjL5MFn7Bjo6koWBzPeR_fj3cZR2",
+        "singleSignToken": "9Y3QpORFeeuW4lcqX4op7LtmPBJ4HEV8",
 
         "userId": 10713435
 
