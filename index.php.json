@@ -1,16 +1,100 @@
 {
 
-    
+    "accountInfo": {
+
+        "allLanguageObjects": [
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 12,
+
+                "isoValue": "be",
+
+                "localizedName": "Dutch",
+
+                "name": "Nederlands"
+
+            },
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 2,
+
+                "isoValue": "en",
+
+                "localizedName": "English",
+
+                "name": "Engels"
+
+            },
+
+            
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 22,
+
+                "isoValue": "ar",
+
+                "localizedName": "Arabic",
+
+                "name": "Arabisch"
+
+            },
+
+            
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 19,
+
+                "isoValue": "tr",
+
+                "localizedName": "Turkish",
+
+                "name": "Turks"
+
+            },
+
+            
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 8,
+
+                "isoValue": "de",
+
+                "localizedName": "German",
+
+                "name": "Duits"
+
+            },
+
+            
+
+            
+
+        ],
 
         "allLanguages": [],
 
         "connectedSocialId": null,
 
-        "countryId": 4,
+        "countryId": 77,
 
-        "countryIso": "الجزائر",
+        "countryIso": "be",
 
-        "createdAt": "2023-02-17 01:32:04",
+        "createdAt": "2023-05-31T21:27:40",
 
         "eligibleForTrial": false,
 
@@ -20,9 +104,9 @@
 
         "enthusiast": false,
 
-        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS12My5hNWRyLmNvbS9hcGkvdjMvbWUvcHJvZmlsZSIsImlhdCI6MTY4NjE0NjU4MywiZXhwIjo2MTY4NjE0NjUyMywibmJmIjoxNjg2MTQ2NTgzLCJqdGkiOiJZNVlzMWppdEVIc2RXam5VIiwic3ViIjoiMTEzNDgzIiwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.84f1FU4DaIjZyf6Vl1K-IanfrN1mds7OKGt3_kJf_mA",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDgzMDI4NiIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MTU4NDc4LCJzZXhwIjoxNjg2MTU4Nzc4LCJleHAiOjE2ODk2MTQ0NzgsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDgzMDI4NiIsInN0b3JlIjoiU1RIUC1CRSIsImNvdW50cnlJZCI6Ijc3IiwiYmFzZVByb2R1Y3RzIjpbIlVOTElNSVRFRCJdfQ.9OhhtOb9m3EvkQGVDbp_hseygDG6K_gMr5AgN974Vmk",
 
-        "lang": "ar",
+        "lang": "be",
 
         "loginStatus": 5,
 
@@ -32,15 +116,15 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "abdelhakimmezache@gmail.com",
+        "phoneNumber": "abdelhakimmezache40@gmail.com",
 
         "preview": false,
 
         "refreshToken": null,
 
-        "singleSignToken": "Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS12My5hNWRyLmNvbS9hcGkvdjMvYXV0aC9mb3JtL2xvZ2luIiwiaWF0IjoxNjg1OTgxMDg1LCJleHAiOjYxNjg1OTgxMDI1LCJuYmYiOjE2ODU5ODEwODUsImp0aSI6IlNQR01CeTVGQjRkcjdXWVMiLCJzdWIiOiIxMTM0ODMiLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.zhWEp3qBqbzzH1lwNCPZ7pqjYZs9Bcrb9Hid6R9395M",
+        "singleSignToken": "anmcgo_JZQ2noWHcCoyZOfRRbxv_NR1i",
 
-        "userId": 113483
+        "userId": 44830286
 
     },
 
@@ -62,5 +146,5 @@
 
 }
 
-
     
+
