@@ -8,13 +8,13 @@
 
                 "checkedByDefault": true,
 
-                "id": 12,
+                "id": 22,
 
-                "isoValue": "be",
+                "isoValue": "ar",
 
-                "localizedName": "Dutch",
+                "localizedName": "اللغة العربية",
 
-                "name": "Nederlands"
+                "name": "Arabic"
 
             },
 
@@ -26,63 +26,11 @@
 
                 "isoValue": "en",
 
-                "localizedName": "English",
+                "localizedName": "اللغة الإنجليزية",
 
-                "name": "Engels"
+                "name": "English"
 
-            },
-
-            
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 22,
-
-                "isoValue": "ar",
-
-                "localizedName": "Arabic",
-
-                "name": "Arabisch"
-
-            },
-
-            
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 19,
-
-                "isoValue": "tr",
-
-                "localizedName": "Turkish",
-
-                "name": "Turks"
-
-            },
-
-            
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 8,
-
-                "isoValue": "de",
-
-                "localizedName": "German",
-
-                "name": "Duits"
-
-            },
-
-            
-
-            
+            }
 
         ],
 
@@ -90,23 +38,23 @@
 
         "connectedSocialId": null,
 
-        "countryId": 77,
+        "countryId": 112,
 
-        "countryIso": "be",
+        "countryIso": "eg",
 
-        "createdAt": "2023-05-31T21:27:40",
+        "createdAt": "2023-06-01T21:17:20",
 
         "eligibleForTrial": false,
 
-        "email": "abdelhakimmezache40@gmail.com",
+        "email": "aaamz9992@gmail.com",
 
         "emailVerified": false,
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDgzMDI4NiIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MTU4NDc4LCJzZXhwIjoxNjg2MTU4Nzc4LCJleHAiOjE2ODk2MTQ0NzgsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDgzMDI4NiIsInN0b3JlIjoiU1RIUC1CRSIsImNvdW50cnlJZCI6Ijc3IiwiYmFzZVByb2R1Y3RzIjpbIlVOTElNSVRFRCJdfQ.9OhhtOb9m3EvkQGVDbp_hseygDG6K_gMr5AgN974Vmk",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDg0NTQ1OSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MTY3NzE4LCJzZXhwIjoxNjg2MTY4MDE4LCJleHAiOjE2ODk2MjM3MTgsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDg0NTQ1OSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.H1vCMw6R-7q7gzx6wGex6pelD89ZIGiY6Rg1DDmEagI",
 
-        "lang": "be",
+        "lang": "ar",
 
         "loginStatus": 5,
 
@@ -116,15 +64,15 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "abdelhakimmezache40@gmail.com",
+        "phoneNumber": "aaamz9992@gmail.com",
 
         "preview": false,
 
         "refreshToken": null,
 
-        "singleSignToken": "anmcgo_JZQ2noWHcCoyZOfRRbxv_NR1i",
+        "singleSignToken": "9Y3QpORFeeuW4lcqX4op7LtmPBJ4HEV8",
 
-        "userId": 44830286
+        "userId": 44845459
 
     },
 
@@ -142,9 +90,9 @@
 
     "result": "success",
 
-    "serverDateMillis": 1686158478
+    "serverDateMillis": 1685731225
 
 }
 
-    
 
+    
