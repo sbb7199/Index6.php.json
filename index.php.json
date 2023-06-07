@@ -4,34 +4,7 @@
 
         "allLanguageObjects": [
 
-            {
-
-                "checkedByDefault": true,
-
-                "id": 22,
-
-                "isoValue": "ar",
-
-                "localizedName": "اللغة العربية",
-
-                "name": "Arabic"
-
-            },
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 2,
-
-                "isoValue": "en",
-
-                "localizedName": "اللغة الإنجليزية",
-
-                "name": "English"
-
-            }
-
+            
         ],
 
         "allLanguages": [],
