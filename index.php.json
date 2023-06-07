@@ -8,13 +8,13 @@
 
                 "checkedByDefault": true,
 
-                "id": 22,
+                "id": 19,
 
-                "isoValue": "ar",
+                "isoValue": "tr",
 
-                "localizedName": "اللغة العربية",
+                "localizedName": "Türkçe",
 
-                "name": "Arabic"
+                "name": "Turkish"
 
             },
 
@@ -22,11 +22,11 @@
 
                 "checkedByDefault": true,
 
-                "id": 2,
+                "id": I,
 
                 "isoValue": "en",
 
-                "localizedName": "اللغة الإنجليزية",
+                "localizedName": "İngilizce",
 
                 "name": "English"
 
@@ -38,23 +38,23 @@
 
         "connectedSocialId": null,
 
-        "countryId": 112,
+        "countryId": 237,
 
-        "countryIso": "eg",
+        "countryIso": "d",
 
-        "createdAt": "2023-06-01T21:17:20",
+        "createdAt": "2023-06-01T14:30:08",
 
         "eligibleForTrial": false,
 
-        "email": "aaamz9992@gmail.com",
+        "email": "aaamz9991@gmail.com",
 
         "emailVerified": false,
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDg0NTQ1OSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MTY3NzE4LCJzZXhwIjoxNjg2MTY4MDE4LCJleHAiOjE2ODk2MjM3MTgsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDg0NTQ1OSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.H1vCMw6R-7q7gzx6wGex6pelD89ZIGiY6Rg1DDmEagI",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDgzOTI1NSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MTc0NDk0LCJzZXhwIjoxNjg2MTc0Nzk0LCJleHAiOjE2ODk2MzA0OTQsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDgzOTI1NSIsInN0b3JlIjoiU1RIUC1UUiIsImNvdW50cnlJZCI6IjIzNyIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.wBtTNbURO2qLl7Es1D7C-2oxnddVheEFW9AwjDdOX6w",
 
-        "lang": "ar",
+        "lang": "tr",
 
         "loginStatus": 5,
 
@@ -64,7 +64,7 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "aaamz9992@gmail.com",
+        "phoneNumber": "aaamz9991@gmail.com",
 
         "preview": false,
 
@@ -72,7 +72,7 @@
 
         "singleSignToken": "9Y3QpORFeeuW4lcqX4op7LtmPBJ4HEV8",
 
-        "userId": 44845459
+        "userId": 44839255
 
     },
 
