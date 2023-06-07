@@ -60,7 +60,7 @@
 
         "loginStatusEnum": "PREMIUM",
 
-        "maximumNumberOfflineBooks": 10000,
+        "maximumNumberOfflineBooks": 100,
 
         "paymentIssues": false,
 
