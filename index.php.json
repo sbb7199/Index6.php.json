@@ -1,60 +1,28 @@
 {
 
-    "accountInfo": {
-
-        "allLanguageObjects": [
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 19,
-
-                "isoValue": "tr",
-
-                "localizedName": "Türkçe",
-
-                "name": "Turkish"
-
-            },
-
-            {
-
-                "checkedByDefault": true,
-
-                "id": 2,
-
-                "isoValue": "en",
-
-                "localizedName": "İngilizce",
-
-                "name": "English"
-
-            }
-
-        ],
+    
 
         "allLanguages": [],
 
         "connectedSocialId": null,
 
-        "countryId": 237,
+        "countryId": 4,
 
-        "countryIso": "tr",
+        "countryIso": "الجزائر",
 
-        "createdAt": "2023-06-01T14:30:08",
+        "createdAt": "2023-02-17 01:32:04",
 
         "eligibleForTrial": false,
 
-        "email": "aaamz9991@gmail.com",
+        "email": "abdelhakimmezache40@gmail.com",
 
         "emailVerified": false,
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0MjcwNTcyNCIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MDk3ODg2LCJzZXhwIjoxNjg2MDk4MTg2LCJleHAiOjE2ODk1NTM4ODYsImlzcyI6IlNUSFAiLCJjaWQiOiI0MjcwNTcyNCIsInN0b3JlIjoiU1RIUC1BUkFCSUEiLCJjb3VudHJ5SWQiOiIyNDIiLCJiYXNlUHJvZHVjdHMiOlsiVU5MSU1JVEVEIl19.ToGg5HL9RPD8Zz9L9-4wOUtyR4XnLcMwSvYJJQmZJd8",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS12My5hNWRyLmNvbS9hcGkvdjMvbWUvcHJvZmlsZSIsImlhdCI6MTY4NjE0NjU4MywiZXhwIjo2MTY4NjE0NjUyMywibmJmIjoxNjg2MTQ2NTgzLCJqdGkiOiJZNVlzMWppdEVIc2RXam5VIiwic3ViIjoiMTEzNDgzIiwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.84f1FU4DaIjZyf6Vl1K-IanfrN1mds7OKGt3_kJf_mA",
 
-        "lang": "e",
+        "lang": "ar",
 
         "loginStatus": 5,
 
@@ -64,15 +32,15 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "aaamz9991@gmail.com",
+        "phoneNumber": "abdelhakimmezache@gmail.com",
 
         "preview": false,
 
         "refreshToken": null,
 
-        "singleSignToken": "zl8E5CdVkx38L6WAjQdh1H9KvINI5zt2",
+        "singleSignToken": "Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS12My5hNWRyLmNvbS9hcGkvdjMvYXV0aC9mb3JtL2xvZ2luIiwiaWF0IjoxNjg1OTgxMDg1LCJleHAiOjYxNjg1OTgxMDI1LCJuYmYiOjE2ODU5ODEwODUsImp0aSI6IlNQR01CeTVGQjRkcjdXWVMiLCJzdWIiOiIxMTM0ODMiLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.zhWEp3qBqbzzH1lwNCPZ7pqjYZs9Bcrb9Hid6R9395M",
 
-        "userId": 44839255
+        "userId": 113483
 
     },
 
@@ -93,5 +61,6 @@
     "serverDateMillis": 1685731225
 
 }
+
 
     
